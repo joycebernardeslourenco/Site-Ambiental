@@ -16,6 +16,8 @@ Contexto Técnico:
 
 O projeto foi criado utilizando o p5.js Web Editor, uma ferramenta comum para ensinar programação e lógica de forma visual.
 
+Dados de Identificação:
+
 Desenvolvedora: Joyce Bernardes Lourenço;
 Escola: Estadual Pilar Maturana;
-Serie: 1 ano integrado ao tecnico de Administraçao.
+Série: 1°ano do ensino médio integrado ao técnico de Administração.
