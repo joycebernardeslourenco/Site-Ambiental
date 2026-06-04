@@ -20,4 +20,4 @@ Dados de Identificação:
 
 Desenvolvedora: Joyce Bernardes Lourenço;
 Escola: Estadual Pilar Maturana;
-Série: 1°ano do ensino médio integrado ao técnico de Administração.
+Série: 1° ano do Ensino Médio integrado ao Técnico em Administração.
