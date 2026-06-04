@@ -6,7 +6,7 @@ Objetivo do Site/Jogo:
 
 Entender que a destruição da natureza tem um custo alto tanto para o meio ambiente quanto para a humanidade. O jogador deve tentar estabilizar a natureza e atingir uma meta financeira.
 
-       Mecânicas e Regras:
+📜 Mecânicas e Regras:
 
 Inicie clicando no botão verde;
 
