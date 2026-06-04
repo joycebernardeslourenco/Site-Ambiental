@@ -1,4 +1,8 @@
-Objetivo do Jogo:
+# Conscientização do meio ambiente
+
+Projeto desenvolvido para o concurso Agrinho.
+
+Objetivo do Site/Jogo:
 
 Entender que a destruição da natureza tem um custo alto tanto para o meio ambiente quanto para a humanidade. O jogador deve tentar estabilizar a natureza e atingir uma meta financeira.
 
