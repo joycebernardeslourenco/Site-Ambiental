@@ -1,12 +1,12 @@
-# Conscientização do meio ambiente
+# Conscientização do meio ambiente 🌱
 
-Projeto desenvolvido para o concurso Agrinho.
+Projeto desenvolvido para o concurso Agrinho. 🌽
 
 Objetivo do Site/Jogo:
 
 Entender que a destruição da natureza tem um custo alto tanto para o meio ambiente quanto para a humanidade. O jogador deve tentar estabilizar a natureza e atingir uma meta financeira.
 
-Mecânicas e Regras:
+       Mecânicas e Regras:
 
 Inicie clicando no botão verde;
 
@@ -18,11 +18,11 @@ Cura: É possível recuperar o ambiente clicando nos elementos numerados: 1 (Flo
 
 Condição de Vitória: Alcançar a meta de 500 reais. Se o valor ficar abaixo disso, o jogador perde por] não conseguir equilibrar o uso dos recursos.
 
-Contexto Técnico:
+🛠️ Contexto Técnico:
 
 O projeto foi criado utilizando o p5.js Web Editor, uma ferramenta comum para ensinar programação e lógica de forma visual.
 
-Dados de Identificação:
+👥 Dados de Identificação:
 
 Desenvolvedora: Joyce Bernardes Lourenço;
 Escola: Estadual Pilar Maturana;
