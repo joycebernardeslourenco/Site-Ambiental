@@ -8,5 +8,10 @@ Dinâmica: Ao utilizar a natureza, o dinheiro sobe rapidamente, mas depois come�
 
 Cura: É possível recuperar o ambiente clicando nos elementos numerados: 1 (Flora), 2 (Água), 3 (Fauna) e 4 (Solo).
 
-Condição de Vitória: Alcançar a meta de 500 reais. Se o valor ficar abaixo disso, o jogador perde por não conseguir equilibrar o uso dos re
-Obj
+Condição de Vitória: Alcançar a meta de 500 reais. Se o valor ficar abaixo disso, o jogador perde por não conseguir equilibrar o uso dos recursos.
+
+Contexto Técnico
+O projeto foi criado utilizando o p5.js Web Editor, uma ferramenta comum para ensinar programação e lógica de forma visual.
+
+
+
