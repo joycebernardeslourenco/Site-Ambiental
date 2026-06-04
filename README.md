@@ -4,6 +4,8 @@ Entender que a destruição da natureza tem um custo alto tanto para o meio ambi
 
 Mecânicas e Regras:
 
+Inicie clicando no botão verde;
+
 Controles: Teclas "G" (Fauna), "F" (Flores), "S" (Solo) e "A" (Água).
 
 Dinâmica: Ao utilizar a natureza, o dinheiro sobe rapidamente, mas depois começa a cair.
